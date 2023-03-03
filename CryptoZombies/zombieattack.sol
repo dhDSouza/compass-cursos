@@ -21,7 +21,11 @@ contract ZombieBattle is zombiehelper {
             myZombie.level++;
             enemyZombie.lossCount++;
             feedAndMultiply(_zombieId, enemyZombie.dna, "zombie");
-        }               
+        } else {
+            myZombie.lossCount++;
+            enemyZombie.winCount++;
+        }
+        _triggerCooldown(myZombie);              
     }    
 
 }
