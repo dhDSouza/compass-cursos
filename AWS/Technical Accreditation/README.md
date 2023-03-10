@@ -76,3 +76,7 @@ A Nuvem AWS abrange 99 zonas de disponibilidade em 31 regiões geográficas por 
 ## Exercício módulo 3
 
 ![Teste do módulo 3](../assets/teste%202%20-%20relacione%20as%20colunas.png)
+
+## Exercício módulo 4
+
+![Teste do módulo 4](../assets/teste%203%20-%20relacione%20as%20colunas.png)
