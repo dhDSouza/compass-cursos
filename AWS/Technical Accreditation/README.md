@@ -69,6 +69,10 @@ A Nuvem AWS abrange 99 zonas de disponibilidade em 31 regiões geográficas por 
 | Crie e mantenha imagens seguras do Linux ou Windows Server | EC2 Image Builder |
 | Distribua automaticamente o tráfego de aplicativos recebidos por vários destinos | Elastic Load Balancing (ELB) |
 
-## Exercício de relação de colunas
+## Exercício módulo 2
 
-![Relação de colunas](../assets/teste%20-%20relacione%20as%20colunas.png)
+![Teste do módulo 2](../assets/teste%20-%20relacione%20as%20colunas.png)
+
+## Exercício módulo 3
+
+![Teste do módulo 3](../assets/teste%202%20-%20relacione%20as%20colunas.png)
